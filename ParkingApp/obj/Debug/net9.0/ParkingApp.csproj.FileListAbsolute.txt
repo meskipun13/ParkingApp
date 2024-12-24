@@ -1,0 +1,15 @@
+/home/enigma/C SHARP/ParkingApp/ParkingApp/bin/Debug/net9.0/ParkingApp
+/home/enigma/C SHARP/ParkingApp/ParkingApp/bin/Debug/net9.0/ParkingApp.deps.json
+/home/enigma/C SHARP/ParkingApp/ParkingApp/bin/Debug/net9.0/ParkingApp.runtimeconfig.json
+/home/enigma/C SHARP/ParkingApp/ParkingApp/bin/Debug/net9.0/ParkingApp.dll
+/home/enigma/C SHARP/ParkingApp/ParkingApp/bin/Debug/net9.0/ParkingApp.pdb
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/ParkingApp.AssemblyInfoInputs.cache
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/ParkingApp.AssemblyInfo.cs
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/ParkingApp.csproj.CoreCompileInputs.cache
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/ParkingApp.sourcelink.json
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/ParkingApp.dll
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/refint/ParkingApp.dll
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/ParkingApp.pdb
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/ParkingApp.genruntimeconfig.cache
+/home/enigma/C SHARP/ParkingApp/ParkingApp/obj/Debug/net9.0/ref/ParkingApp.dll
